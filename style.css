@@ -1,0 +1,1919 @@
+body
+{
+	font-family:calibri;
+}
+
+#main
+{
+	position:relative;
+	width:100%;
+	height:600px;
+	background-image:url(images/bg.jpg);
+	background-size:100% 600px;
+	background-repeat:no-repeat;
+	font-family:calibri;
+}
+
+header
+{
+	position:absolute;
+	top:10px;
+	background-color:transparent;
+	width:80%;
+	left:10%;
+	color:white;
+}
+
+header ul
+{
+	float:left;
+	position:absolute;
+	left:55%;
+	top:0;
+	list-style:none;
+	font-family:calibri;
+	font-size:18px;
+}
+header ul li
+{
+    float:left;
+	padding-left:20px;	
+	
+}
+
+header ul li a
+{
+	text-decoration:none;
+	color:white;
+}
+
+#main h1
+{
+	position:absolute;
+	color:white;
+	top:50%;
+	left:150px;
+}
+
+#main h4
+{
+	position:absolute;
+	color:white;
+	top:58%;
+	left:150px;
+	word-spacing:5px;
+}
+
+#main p
+{
+	position:absolute;
+	color:white;
+	top:66%;
+	left:150px;
+	right:60%;
+}
+
+#details
+{
+	position:relative;
+	background-color:#DCFFFB;
+	width:100%;
+	height:500px;
+	
+}
+
+#details h1
+{
+	position:absolute;
+	font-style:italic;
+	left:40%;
+	top:5%;
+}
+
+#details p
+{
+	position:absolute;
+	left:20%;
+	top:20%;
+	font-style:italic;
+	right:25%;
+}
+
+#details .box
+{
+	position:absolute;
+	top:58%;
+	border:2px solid black;
+	width:80px;
+	text-align:center;
+	height:80px;
+}
+
+#box1
+{
+	left:30%;
+}
+
+#box2
+{
+	left:40%;
+}
+
+#box3
+{
+	left:50%;
+}
+
+#box4
+{
+	left:60%;
+}
+
+#details button
+{
+	position:absolute;
+	left:43%;
+	width:120px;
+	height:50px;
+	top:85%;
+	background-color:#9E3874;
+	border-radius:10px;
+}
+
+#inner 
+{
+	position:relative;
+	width:100%;
+	height:200px;
+}
+
+#inner button
+{
+	position:absolute;
+	left:83%;
+	width:120px;
+	height:50px;
+	top:45%;
+	background-color:#9E3874;
+	border-radius:10px;
+	
+}
+#bg
+{
+	position:relative;
+	width:100%;
+	height:500px;
+	background-color:#DCFFFB;
+}
+
+#bg h1
+{
+	position:absolute;
+    left:40%;
+	top:5%;
+	font-style:italic;
+}
+
+#bg p
+{
+	position:absolute;
+	left:10%;
+	top:20%;
+	right:10%;
+	font-style:italic;
+}
+
+#bg img
+{
+	width:230px;
+	height:230px;
+}
+
+#bg #image1 
+{
+	position:absolute;
+	left:30%;
+	top:50%;
+}
+ #bg #image2
+ {
+	 position:absolute;
+	 left:50%;
+	 top:50%;
+ }
+ 
+ #groom
+ {
+	 position:relative;
+	 width:100%;
+	 height:600px;
+	 background-color:#DCFFFB;
+ }
+ 
+ #text
+ {
+	 position:absolute;
+	 width:50%;
+	 height:600px;
+ }
+ #image
+ {
+	 position:absolute;
+	 width:50%;
+	 height:600px;
+	 left:53%;
+	 top:15%;
+ }
+ 
+ #text h1
+ {
+	 position:absolute;
+	 left:10%;
+	 top:5%;
+	 font-style:italic;
+	 
+ }
+ 
+ #text p
+ {
+	 position:absolute;
+	 left:10%;
+	 right:5%;
+	 top:20%;
+	 font-style:italic;
+ }
+ 
+ #text button
+ {
+	 position:absolute;
+	 left:10%;
+	 top:75%;
+	 width:120px;
+	height:50px;
+	background-color:#9E3874;
+	border-radius:10px;
+	
+ }
+ 
+ #image img
+ {
+	 width:450px;
+	 height:500px;
+ }
+ 
+ #bride
+ {
+	 position:relative;
+	 width:100%;
+	 height:600px;
+	 background-color:#DCFFFB;
+ }
+ 
+ #text1
+ {
+	 position:absolute;
+	 width:50%;
+	 height:600px;
+	 left:50%;
+ }
+ #img
+ {
+	 position:absolute;
+	 width:50%;
+	 height:600px;
+	 left:12%;
+	 top:10%;
+ }
+ 
+ #text1 h1
+ {
+	 position:absolute;
+	 left:10%;
+	 top:5%;
+	 font-style:italic;
+	 
+ }
+ 
+ #text1 p
+ {
+	 position:absolute;
+	 left:10%;
+	 right:20%;
+	 top:20%;
+	 font-style:italic;
+ }
+ 
+ #text1 button
+ {
+	 position:absolute;
+	 left:10%;
+	 top:72%;
+	 width:120px;
+	height:50px;
+	background-color:#9E3874;
+	border-radius:10px;
+	
+ }
+ 
+ #img img
+ {
+	 width:450px;
+	 height:500px;
+ }
+ 
+ #family
+ {
+	 position:relative;
+	 width:100%;
+	 height:900px;
+	 background-color:#DCFFFB;
+	
+ }
+ 
+ #family h1
+ {
+	 position:absolute;
+	 left:42%;
+	 font-style:italic;
+	 top:5%;
+ }
+ 
+  #family p
+ {
+	 position:absolute;
+	 left:30%;
+	 right:30%;
+	 font-style:italic;
+	 top:22%;
+ }
+ 
+ .one
+ {
+	 position:absolute;
+	 left:10%;
+	 top:35%;
+	 border-radius:10px;
+ }
+ 
+ .two
+ {
+	 position:absolute;
+	 left:30%;
+	 top:35%;
+	 border-radius:10px;
+ }
+ 
+ .three
+ {
+	 position:absolute;
+	 left:50%;
+	 top:35%;
+	 border-radius:10px;
+ }
+ 
+ .four
+ {
+	 position:absolute;
+	 left:70%;
+	 top:35%;
+	 border-radius:10px;
+ }
+ 
+ #one1
+ {
+	 top:65%;
+ }
+ 
+ #two2
+ {
+	 top:65%;
+ }
+ 
+ #three3
+ {
+	 top:65%;
+ }
+ 
+ #four4
+ {
+	 top:65%;
+ }
+ 
+ #events
+ {
+	 position:relative;
+	 width:100%;
+	 height:2000px;
+	 background-color:#DCFFFB;
+ }
+ 
+ #reception
+ {
+	 position:relative;
+	 width:100%;
+	 height:400px;
+	 background-color:#DCFFFB;
+ }
+ 
+ #reception h1
+ {
+	 position:absolute;
+	 top:35%;
+	 left:10%;
+	 font-style:italic;
+ }
+ #reception h3
+ {
+	 position:absolute;
+	 top:50%;
+	 left:10%;
+	 font-style:italic;
+	 color:grey;
+ }
+ #reception .h3
+ {
+	 top:60%;
+ }
+ #reception img
+ {
+	 position:absolute;
+	 left:40%;
+	 height:400px;
+	 width:700px;
+ }
+ 
+ #reception button
+ {
+	
+	 position:absolute;
+	 left:10%;
+	 top:82%;
+	 width:120px;
+	height:50px;
+	background-color:#9E3874;
+	border-radius:10px; 
+	 
+ }
+ 
+ #ceremony
+ {
+	 position:relative;
+	 width:100%;
+	 height:400px;
+	 background-color:#DCFFFB;
+ }
+ 
+ #ceremony h1
+ {
+	 position:absolute;
+	 top:35%;
+	 left:70%;
+	 font-style:italic;
+ }
+ #ceremony h3
+ {
+	 position:absolute;
+	 top:50%;
+	 left:70%;
+	 font-style:italic;
+	 color:grey;
+ }
+ #ceremony .h3
+ {
+	 top:60%;
+ }
+ #ceremony img
+ {
+	 position:absolute;
+	 left:20px;
+	 height:400px;
+	 width:700px;
+	 top:40px;
+ }
+ 
+ #ceremony button
+ {
+	
+	 position:absolute;
+	 left:70%;
+	 top:82%;
+	 width:120px;
+	height:50px;
+	background-color:#9E3874;
+	border-radius:10px; 
+	 
+ }
+ 
+ #party
+ {
+	 position:relative;
+	 width:100%;
+	 height:500px;
+	 background-color:#DCFFFB;
+ }
+ 
+ #party h1
+ {
+	 position:absolute;
+	 top:35%;
+	 left:10%;
+	 font-style:italic;
+ }
+ #party h3
+ {
+	 position:absolute;
+	 top:50%;
+	 left:10%;
+	 font-style:italic;
+	 color:grey;
+ }
+ #party .h3
+ {
+	 top:60%;
+ }
+ #party img
+ {
+	 position:absolute;
+	 left:40%;
+	 height:400px;
+	 width:700px;
+	 top:40px;
+ }
+ 
+ #party button
+ {
+	
+	 position:absolute;
+	 left:10%;
+	 top:82%;
+	 width:120px;
+	height:50px;
+	background-color:#9E3874;
+	border-radius:10px; 
+	 
+ }
+ 
+ #bgroom
+ {
+	 position:relative;
+	 width:100%;
+	 height:auto;
+ }
+ #bgroom img
+ {
+	 width:100%;
+	 height:600px;
+ }
+ 
+ #reserve
+ {
+	 position:relative;
+	 width:100%;
+	 height:600px;
+	 background-color:#DCFFFB;
+	 
+ }
+ 
+ #reserve h1
+ {
+	 position:absolute;
+	 left:40%;
+	 top:5%;
+	 font-style:italic;
+ }
+ 
+ #reserve p
+ {
+	 position:absolute;
+	 left:22%;
+	 top:20%;
+	 color:grey;
+	 right:30%;
+	 font-style:italic;
+ }
+ 
+ #reserve input
+ {
+	 position:absolute;
+	 width:90%;
+	 left:5%;
+	 height:50px;
+	 top:40%;
+ }
+ form #in1
+ {
+	 top:53%;
+ }
+ 
+ form #in2
+ {
+	 top:65%;
+	 height:120px;
+ }
+ 
+ form button
+ {
+	  position:absolute;
+	 left:45%;
+	 top:90%;
+	 width:120px;
+	height:50px;
+	background-color:#9E3874;
+	border-radius:10px; 
+	 
+ }
+ 
+ @media(max-width: 786px){
+	 body
+{
+	font-family:calibri;
+}
+
+#main
+{
+	position:relative;
+	width:100%;
+	height:600px;
+	background-image:url(images/bg.jpg);
+	background-size:100% 600px;
+	background-repeat:no-repeat;
+	font-family:calibri;
+}
+
+header
+{
+	position:absolute;
+	top:10px;
+	background-color:black;
+	opacity:0.7;
+	width:80%;
+	left:10%;
+	color:white;
+}
+
+header ul
+{
+	float:left;
+	position:absolute;
+	left:35%;
+	top:0;
+	list-style:none;
+	font-family:calibri;
+	font-size:18px;
+}
+header ul li
+{
+    float:left;
+	padding-left:20px;	
+	
+}
+
+header ul li a
+{
+	text-decoration:none;
+	color:white;
+}
+
+#main h1
+{
+	position:absolute;
+	color:white;
+	top:30%;
+	left:150px;
+}
+
+#main h4
+{
+	position:absolute;
+	color:white;
+	top:38%;
+	left:150px;
+	word-spacing:5px;
+}
+
+#main p
+{
+	position:absolute;
+	color:white;
+	top:46%;
+	left:150px;
+	right:30%;
+}
+
+#details
+{
+	position:relative;
+	background-color:#DCFFFB;
+	width:100%;
+	height:500px;
+	
+}
+
+#details h1
+{
+	position:absolute;
+	font-style:italic;
+	left:40%;
+	top:5%;
+}
+
+#details p
+{
+	position:absolute;
+	left:28%;
+	top:20%;
+	font-style:italic;
+	right:10%;
+}
+
+#details .box
+{
+	position:absolute;
+	top:56%;
+	border:2px solid black;
+	width:60px;
+	text-align:center;
+	height:60px;
+}
+
+#box1
+{
+	left:36%;
+}
+
+#box2
+{
+	left:46%;
+}
+
+#box3
+{
+	left:56%;
+}
+
+#box4
+{
+	left:66%;
+}
+
+#details button
+{
+	position:absolute;
+	left:43%;
+	width:120px;
+	height:50px;
+	top:85%;
+	background-color:#9E3874;
+	border-radius:10px;
+}
+
+#inner 
+{
+	position:relative;
+	width:100%;
+	height:200px;
+}
+
+#inner button
+{
+	position:absolute;
+	left:83%;
+	width:120px;
+	height:50px;
+	top:45%;
+	background-color:#9E3874;
+	border-radius:10px;
+	
+}
+#bg
+{
+	position:relative;
+	width:100%;
+	height:500px;
+	background-color:#DCFFFB;
+}
+
+#bg h1
+{
+	position:absolute;
+    left:40%;
+	top:5%;
+	font-style:italic;
+}
+
+#bg p
+{
+	position:absolute;
+	left:15%;
+	top:20%;
+	right:10%;
+	font-style:italic;
+}
+
+#bg img
+{
+	width:230px;
+	height:230px;
+	
+}
+
+#bg #image1 
+{
+	position:absolute;
+	left:20%;
+	top:52%;
+}
+ #bg #image2
+ {
+	 position:absolute;
+	 left:50%;
+	 top:52%;
+ }
+ 
+ #groom
+ {
+	 position:relative;
+	 width:100%;
+	 height:600px;
+	 background-color:#DCFFFB;
+ }
+ 
+ #text
+ {
+	 position:absolute;
+	 width:50%;
+	 height:600px;
+ }
+ #image
+ {
+	 position:absolute;
+	 width:50%;
+	 height:600px;
+	 left:50%;
+	 top:15%;
+ }
+ 
+ #text h1
+ {
+	 position:absolute;
+	 left:10%;
+	 top:5%;
+	 font-style:italic;
+	 
+ }
+ 
+ #text p
+ {
+	 position:absolute;
+	 left:10%;
+	 right:5%;
+	 top:20%;
+	 font-style:italic;
+ }
+ 
+ #text button
+ {
+	 position:absolute;
+	 left:10%;
+	 top:80%;
+	 width:120px;
+	height:50px;
+	background-color:#9E3874;
+	border-radius:10px;
+	
+ }
+ 
+ #image img
+ {
+	 width:350px;
+	 height:480px;
+ }
+ 
+ #bride
+ {
+	 position:relative;
+	 width:100%;
+	 height:600px;
+	 background-color:#DCFFFB;
+ }
+ 
+ #text1
+ {
+	 position:absolute;
+	 width:50%;
+	 height:600px;
+	 left:50%;
+ }
+ #img
+ {
+	 position:absolute;
+	 width:50%;
+	 height:600px;
+	 left:2%;
+	 top:10%;
+ }
+ 
+ #text1 h1
+ {
+	 position:absolute;
+	 left:10%;
+	 top:5%;
+	 font-style:italic;
+	 
+ }
+ 
+ #text1 p
+ {
+	 position:absolute;
+	 left:10%;
+	 right:15%;
+	 top:15%;
+	 font-style:italic;
+ }
+ 
+ #text1 button
+ {
+	 position:absolute;
+	 left:10%;
+	 top:83%;
+	 width:120px;
+	height:50px;
+	background-color:#9E3874;
+	border-radius:10px;
+	
+ }
+ 
+ #img img
+ {
+	 width:350px;
+	 height:480px;
+ }
+ 
+ #family
+ {
+	 position:relative;
+	 width:100%;
+	 height:700px;
+	 background-color:#DCFFFB;
+	
+ }
+ 
+ #family h1
+ {
+	 position:absolute;
+	 left:42%;
+	 font-style:italic;
+	 top:5%;
+ }
+ 
+  #family p
+ {
+	 position:absolute;
+	 left:30%;
+	 right:30%;
+	 font-style:italic;
+	 top:15%;
+ }
+ 
+ .one
+ {
+	 position:absolute;
+	 left:10%;
+	 top:35%;
+	 border-radius:10px;
+	 width:150px;
+	 height:150px;
+ }
+ 
+ .two
+ {
+	 position:absolute;
+	 left:32%;
+	 top:35%;
+	 border-radius:10px;
+	 width:150px;
+	 height:150px;
+ }
+ 
+ .three
+ {
+	 position:absolute;
+	 left:54%;
+	 top:35%;
+	 border-radius:10px;
+	 width:150px;
+	 height:150px;
+ }
+ 
+ .four
+ {
+	 position:absolute;
+	 left:78%;
+	 top:35%;
+	 border-radius:10px;
+	 width:150px;
+	 height:150px;
+ }
+ 
+ #one1
+ {
+	 top:65%;
+ }
+ 
+ #two2
+ {
+	 top:65%;
+ }
+ 
+ #three3
+ {
+	 top:65%;
+ }
+ 
+ #four4
+ {
+	 top:65%;
+ }
+ 
+ #events
+ {
+	 position:relative;
+	 width:100%;
+	 height:2000px;
+	 background-color:#DCFFFB;
+ }
+ 
+ #reception
+ {
+	 position:relative;
+	 width:100%;
+	 height:400px;
+	 background-color:#DCFFFB;
+ }
+ 
+ #reception h1
+ {
+	 position:absolute;
+	 top:35%;
+	 left:10%;
+	 font-style:italic;
+ }
+ #reception h3
+ {
+	 position:absolute;
+	 top:50%;
+	 left:10%;
+	 font-style:italic;
+	 color:grey;
+ }
+ #reception .h3
+ {
+	 top:60%;
+ }
+ #reception img
+ {
+	 position:absolute;
+	 left:40%;
+	 height:400px;
+	 width:400px;
+ }
+ 
+ #reception button
+ {
+	
+	 position:absolute;
+	 left:10%;
+	 top:82%;
+	 width:120px;
+	height:50px;
+	background-color:#9E3874;
+	border-radius:10px; 
+	 
+ }
+ 
+ #ceremony
+ {
+	 position:relative;
+	 width:100%;
+	 height:400px;
+	 background-color:#DCFFFB;
+ }
+ 
+ #ceremony h1
+ {
+	 position:absolute;
+	 top:35%;
+	 left:70%;
+	 font-style:italic;
+ }
+ #ceremony h3
+ {
+	 position:absolute;
+	 top:50%;
+	 left:70%;
+	 font-style:italic;
+	 color:grey;
+ }
+ #ceremony .h3
+ {
+	 top:60%;
+ }
+ #ceremony img
+ {
+	 position:absolute;
+	 left:20px;
+	 height:400px;
+	 width:400px;
+	 top:40px;
+ }
+ 
+ #ceremony button
+ {
+	
+	 position:absolute;
+	 left:70%;
+	 top:82%;
+	 width:120px;
+	height:50px;
+	background-color:#9E3874;
+	border-radius:10px; 
+	 
+ }
+ 
+ #party
+ {
+	 position:relative;
+	 width:100%;
+	 height:500px;
+	 background-color:#DCFFFB;
+ }
+ 
+ #party h1
+ {
+	 position:absolute;
+	 top:35%;
+	 left:10%;
+	 font-style:italic;
+ }
+ #party h3
+ {
+	 position:absolute;
+	 top:50%;
+	 left:10%;
+	 font-style:italic;
+	 color:grey;
+ }
+ #party .h3
+ {
+	 top:60%;
+ }
+ #party img
+ {
+	 position:absolute;
+	 left:40%;
+	 height:400px;
+	 width:400px;
+	 top:40px;
+ }
+ 
+ #party button
+ {
+	
+	 position:absolute;
+	 left:10%;
+	 top:82%;
+	 width:120px;
+	height:50px;
+	background-color:#9E3874;
+	border-radius:10px; 
+	 
+ }
+ 
+ #bgroom
+ {
+	 position:relative;
+	 width:100%;
+	 height:auto;
+ }
+ #bgroom img
+ {
+	 width:100%;
+	 height:600px;
+ }
+ 
+ #reserve
+ {
+	 position:relative;
+	 width:100%;
+	 height:600px;
+	 background-color:#DCFFFB;
+	 
+ }
+ 
+ #reserve h1
+ {
+	 position:absolute;
+	 left:35%;
+	 top:5%;
+	 font-style:italic;
+ }
+ 
+ #reserve p
+ {
+	 position:absolute;
+	 left:20%;
+	 top:20%;
+	 color:grey;
+	 right:20%;
+	 font-style:italic;
+ }
+ 
+ #reserve input
+ {
+	 position:absolute;
+	 width:90%;
+	 left:5%;
+	 height:50px;
+	 top:40%;
+ }
+ form #in1
+ {
+	 top:53%;
+ }
+ 
+ form #in2
+ {
+	 top:65%;
+	 height:120px;
+ }
+ 
+ form button
+ {
+	  position:absolute;
+	 left:40%;
+	 top:90%;
+	 width:120px;
+	height:50px;
+	background-color:#9E3874;
+	border-radius:10px; 
+	 
+ }
+	 
+ }
+ 
+  @media(max-width: 360px){
+	 body
+{
+	font-family:calibri;
+}
+
+#main
+{
+	position:relative;
+	width:100%;
+	height:600px;
+	background-image:url(images/bg.jpg);
+	background-size:100% 600px;
+	background-repeat:no-repeat;
+	font-family:calibri;
+}
+
+header
+{
+	position:absolute;
+	top:10px;
+	background-color:white;
+	opacity:0.7;
+	width:80%;
+	left:10%;
+	color:black;
+	height:150px;
+}
+
+header h3
+{
+    position:absolute;
+	left:35%;
+	top:5px;
+	font-size:24px;	
+	
+}
+header ul
+{
+    float:none;
+	position:absolute;
+	left:-38px;
+	top:50px;;
+	list-style:none;
+	font-family:calibri;
+	font-size:18px;
+}
+header ul li
+{
+    float:left;
+	padding-left:20px;	
+	
+}
+
+header ul li a
+{
+	text-decoration:none;
+	color:black;
+}
+
+#main h1
+{
+	position:absolute;
+	color:white;
+	top:30%;
+	left:50px;
+}
+
+#main h4
+{
+	position:absolute;
+	color:white;
+	top:38%;
+	left:50px;
+	word-spacing:5px;
+}
+
+#main p
+{
+	position:absolute;
+	color:white;
+	top:48%;
+	left:50px;
+	right:20%;
+}
+
+#details
+{
+	position:relative;
+	background-color:#DCFFFB;
+	width:100%;
+	height:500px;
+	
+}
+
+#details h1
+{
+	position:absolute;
+	font-style:italic;
+	left:20%;
+	top:5%;
+	font-size:28px;
+}
+
+#details p
+{
+	position:absolute;
+	left:15%;
+	top:20%;
+	font-style:italic;
+	right:8%;
+	text-align:justify;
+}
+
+#details .box
+{
+	position:absolute;
+	top:56%;
+	border:2px solid black;
+	width:60px;
+	text-align:center;
+	height:60px;
+}
+
+#box1
+{
+	left:20%;
+}
+
+#box2
+{
+	left:42%;
+}
+
+#box3
+{
+	left:65%;
+}
+
+#box4
+{
+	display:none;
+}
+
+#details button
+{
+	position:absolute;
+	left:25%;
+	width:150px;
+	height:50px;
+	top:80%;
+	background-color:#9E3874;
+	border-radius:10px;
+}
+
+#inner 
+{
+	position:relative;
+	width:100%;
+	height:200px;
+}
+
+#inner button
+{
+	position:absolute;
+	left:33%;
+	width:120px;
+	height:50px;
+	top:45%;
+	background-color:#9E3874;
+	border-radius:10px;
+	
+}
+#bg
+{
+	position:relative;
+	width:100%;
+	height:600px;
+	background-color:#DCFFFB;
+}
+
+#bg h1
+{
+	position:absolute;
+    left:18%;
+	top:5%;
+	font-style:italic;
+}
+
+#bg p
+{
+	position:absolute;
+	left:10%;
+	top:15%;
+	right:10%;
+	font-style:italic;
+	text-align:justify;
+}
+
+#bg img
+{
+	width:130px;
+	height:130px;
+	
+}
+
+#bg #image1 
+{
+	position:absolute;
+	left:12%;
+	top:68%;
+}
+ #bg #image2
+ {
+	 position:absolute;
+	 left:52%;
+	 top:68%;
+ }
+ 
+ #groom
+ {
+	 position:relative;
+	 width:100%;
+	 height:600px;
+	 background-color:#DCFFFB;
+ }
+ 
+ #text
+ {
+	 position:absolute;
+	 width:100%;
+	 height:600px;
+ }
+ #image
+ {
+	 position:absolute;
+	 top:0;
+ }
+ 
+ #text h1
+ {
+	 position:absolute;
+	 left:10%;
+	 top:5%;
+	 font-style:italic;
+	 font-size:36px;
+	 
+ }
+ 
+ #text p
+ {
+	 position:absolute;
+	 left:10%;
+	 right:5%;
+	 top:25%;
+	 font-style:italic;
+ }
+ 
+ #text button
+ {
+	 position:absolute;
+	 left:23%;
+	 top:90%;
+	 width:150px;
+	height:50px;
+	background-color:#9E3874;
+	border-radius:10px;
+	
+ }
+ 
+ #image img
+ {
+	 width:150px;
+	 height:150px;
+ }
+ 
+ #bride
+ {
+	 position:relative;
+	 width:100%;
+	 height:700px;
+	 background-color:#DCFFFB;
+ }
+ 
+ #text1
+ {
+	 position:absolute;
+	 width:100%;
+	 height:700px;
+	 left:0;
+ }
+ #img
+ {
+	 position:absolute;
+	 left:50%;
+	 top:20px;
+ }
+ 
+ #text1 h1
+ {
+	 position:absolute;
+	 left:12%;
+	 top:5%;
+	 font-style:italic;
+	 font-size:36px;
+	 
+ }
+ 
+ #text1 p
+ {
+	 
+	 position:absolute;
+	 left:10%;
+	 right:5%;
+	 top:25%;
+	 font-style:italic;
+	 text-align:justify;
+ }
+ 
+ #text1 button
+ {
+	 position:absolute;
+	 left:23%;
+	 top:90%;
+	 width:150px;
+	height:50px;
+	background-color:#9E3874;
+	border-radius:10px;
+	
+ }
+ 
+ #img img
+ {
+	 width:150px;
+	 height:150px;
+ }
+ 
+ #family
+ {
+	 position:relative;
+	 width:100%;
+	 height:700px;
+	 background-color:#DCFFFB;
+	
+ }
+ 
+ #family h1
+ {
+	 position:absolute;
+	 left:38%;
+	 font-style:italic;
+	 top:5%;
+ }
+ 
+  #family p
+ {
+	 position:absolute;
+	 left:15%;
+	 right:9%;
+	 font-style:italic;
+	 top:15%;
+ }
+ 
+ .one
+ {
+	 position:absolute;
+	 left:10%;
+	 top:32%;
+	 border-radius:20px;
+	 width:130px;
+	 height:130px;
+	 
+ }
+ 
+ .two
+ {
+	 position:absolute;
+	 left:52%;
+	 top:32%;
+	 border-radius:20px;
+	 width:130px;
+	 height:130px;
+	 
+ }
+ 
+ .three
+ {
+	 position:absolute;
+	 left:10%;
+	 top:60%;
+	 border-radius:20px;
+	 width:130px;
+	 height:130px;
+	 
+ }
+ 
+ .four
+ {
+	 position:absolute;
+	 left:52%;
+	 top:60%;
+	 border-radius:20px;
+	 width:130px;
+	 height:130px;
+	 
+ }
+ 
+ #one1
+ {
+	 display:none;
+ }
+ 
+ #two2
+ {
+	display:none;
+ }
+ 
+ #three3
+ {
+	 display:none;
+ }
+ 
+ #four4
+ {
+	 display:none;
+ }
+ 
+ #events
+ {
+	 position:relative;
+	 width:100%;
+	 height:2000px;
+	 background-color:#DCFFFB;
+ }
+ 
+ #reception
+ {
+	 position:relative;
+	 width:100%;
+	 height:400px;
+	 background-color:#DCFFFB;
+ }
+ 
+ #reception h1
+ {
+	 position:absolute;
+	 top:35%;
+	 left:10%;
+	 font-style:italic;
+ }
+ #reception h3
+ {
+	 position:absolute;
+	 top:50%;
+	 left:10%;
+	 font-style:italic;
+	 color:grey;
+ }
+ #reception .h3
+ {
+	 top:60%;
+ }
+ #reception img
+ {
+	 position:absolute;
+	 left:0;
+	 bottom:280px;
+	 height:180px;
+	 width:100%;
+ }
+ 
+ #reception button
+ {
+	
+	 
+	 position:absolute;
+	 left:10%;
+	 top:82%;
+	 width:250px;
+	height:40px;
+	background-color:#9E3874;
+	border-radius:10px; 
+	 
+ }
+ 
+ #ceremony
+ {
+	 position:relative;
+	 width:100%;
+	 height:400px;
+	 background-color:#DCFFFB;
+ }
+ 
+ #ceremony h1
+ {
+	 position:absolute;
+	 top:45%;
+	 left:10%;
+	 font-style:italic;
+ }
+ #ceremony h3
+ {
+	position:absolute;
+	 top:60%;
+	 left:10%;
+	 font-style:italic;
+	 color:grey;
+ }
+ #ceremony .h3
+ {
+	 top:70%;
+ }
+ #ceremony img
+ {
+	 position:absolute;
+	 left:0;
+	 top:-10px;
+	 height:180px;
+	 width:100%;
+ }
+ 
+ #ceremony button
+ {
+	
+	 position:absolute;
+	 left:10%;
+	 top:90%;
+	 width:250px;
+	height:40px;
+	background-color:#9E3874;
+	border-radius:10px; 
+	 
+ }
+ 
+ #party
+ {
+	 position:relative;
+	 width:100%;
+	 height:500px;
+	 background-color:#DCFFFB;
+ }
+ 
+ #party h1
+ {
+	  position:absolute;
+	 top:42%;
+	 left:10%;
+	 font-style:italic;
+ }
+ #party h3
+ {
+	position:absolute;
+	 top:55%;
+	 left:10%;
+	 font-style:italic;
+	 color:grey;
+ }
+ #party .h3
+ {
+	 top:65%;
+ }
+ #party img
+ {
+	  position:absolute;
+	 left:0;
+	 bottom:280px;
+	 height:180px;
+	 width:100%;
+ }
+ 
+ #party button
+ {
+	
+	 position:absolute;
+	 left:10%;
+	 top:82%;
+	 width:250px;
+	height:40px;
+	background-color:#9E3874;
+	border-radius:10px; 
+	 
+ }
+ 
+ #bgroom
+ {
+	 position:relative;
+	  top:3%;
+	 width:100%;
+	 height:400px;
+ }
+ #bgroom img
+ {
+	
+	 width:100%;
+	 height:400px;
+ }
+ 
+ #reserve
+ {
+	 position:relative;
+	 width:100%;
+	 height:600px;
+	 background-color:#DCFFFB;
+	 
+ }
+ 
+ #reserve h1
+ {
+	 position:absolute;
+	 left:26%;
+	 top:-150px;;
+	 font-style:italic;
+ }
+ 
+ #reserve p
+ {
+	 position:absolute;
+	 left:12%;
+	 top:-80px;
+	 color:grey;
+	 right:10%;
+	 font-style:italic;
+ }
+ 
+ #reserve input
+ {
+	 position:absolute;
+	 width:90%;
+	 left:5%;
+	 height:50px;
+	 top:60px;
+ }
+ form #in1
+ {
+	 top:145px;
+ }
+ 
+ form #in2
+ {
+	 top:225px;
+	 height:120px;
+ }
+ 
+ form button
+ {
+	  position:absolute;
+	 left:20%;
+	 top:70%;
+	 width:180px;
+	height:50px;
+	background-color:#9E3874;
+	border-radius:10px; 
+	 
+ }
+	 
+ }
